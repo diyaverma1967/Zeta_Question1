@@ -48,8 +48,9 @@ The model expects the following input data in **exact format**:
 | `customer_flagged`    | binary (0 or 1)  | Whether 1 or 0
 
 ## Request Body
-
+![WhatsApp Image 2025-04-30 at 23 58 16_a3066f7c](https://github.com/user-attachments/assets/5209281b-6fa3-45e2-9711-a4fd81654bb3)
 
 ## Response Body
-<img width="1407" alt="Screenshot 2025-04-30 at 10 22 02ΓÇ»PM" src="https://github.com/user-attachments/assets/fdf916fd-536e-4360-a58a-6a798736a7e0" />
+<img width="1422" alt="Screenshot 2025-04-30 at 11 56 54 PM" src="https://github.com/user-attachments/assets/b149bff3-7219-4d83-b535-b63f6fa0c909" />
+
 
