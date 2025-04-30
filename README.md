@@ -48,7 +48,8 @@ The model expects the following input data in **exact format**:
 | `customer_flagged`    | binary (0 or 1)  | Whether 1 or 0
 
 ## Request Body
-<img width="1407" alt="Screenshot 2025-04-30 at 10 22 02ΓÇ»PM" src="https://github.com/user-attachments/assets/fdf916fd-536e-4360-a58a-6a798736a7e0" />
+
 
 ## Response Body
-<img width="563" alt="Screenshot 2025-04-30 at 10 28 29ΓÇ»PM" src="https://github.com/user-attachments/assets/cd754502-6409-49ef-a5a2-9c7a2fc1e4cb" />
+<img width="1407" alt="Screenshot 2025-04-30 at 10 22 02ΓÇ»PM" src="https://github.com/user-attachments/assets/fdf916fd-536e-4360-a58a-6a798736a7e0" />
+
